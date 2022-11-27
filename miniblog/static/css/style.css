@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+h1{
+    /* padding-top: 3px; */
+}
+
+.jumbotron{
+    background-color: rgb(83, 81, 81);
+    padding: 34px;
+}
+
